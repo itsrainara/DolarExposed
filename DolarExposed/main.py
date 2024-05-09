@@ -3,10 +3,10 @@ import tweepy
 import time
 import datetime
 
-consumer_key = 'X52hvE3tWyFKS0QptT41PirLf'
-consumer_secret = 'x47Qh4dCEDeMWoFl1kRNHq7VxxacEwGZjWJ2vwcJtBebOQjQZF'
-access_token = '1785330303986196481-rqVTIUyaH6mKbQv2YHgPX69710LCuh'
-access_token_secret = '1LUaoulfEdlwfVN4iLs5HZYUxafmDIQv4uDwrwE3xeiEt'
+consumer_key = 'sWGA4nCq8b5VIPeqTTosrg719'
+consumer_secret = 'yWX2XUxHnL3pZSREflXKNeXlPwFVYn4BigtE33M9Nb378OvQIZ'
+access_token = '1785330303986196481-rdFZyKE4cjnOV5neRVsKLY5aMlxtkV'
+access_token_secret = 'rP0Hb0Rs58DNTMPaIpZMzpMPpVLx4iXIcfcZrvSKRwTrr'
 
 auth = tweepy.Client(
     consumer_key=consumer_key,
